@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "axios": "^0.26.1",
+    "bootstrap-vue": "^2.23.1",
     "vue": "^3.2.25"
   },
   "devDependencies": {
